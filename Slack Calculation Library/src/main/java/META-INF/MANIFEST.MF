@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: parcschedule.schedulers.SchedulerApp
+Class-Path: parcgraph-1.0.jar mbox2-1.0.jar jopt-simple-5.0.4.jar gs-cor
+ e-1.3.jar gxl-0.92.jar commons-io-2.6.jar pherd-1.0.jar
+
