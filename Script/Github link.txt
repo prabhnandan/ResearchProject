@@ -1,0 +1,3 @@
+Due to the size of the library, only the github link is made available:
+
+https://github.com/prabhnandan/slackCalculator.git
